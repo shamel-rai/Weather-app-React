@@ -1,0 +1,5 @@
+.app {
+  min-height: 100vh;
+  display: grid;
+  background-image: radial-gradient(circle, #6b6d71, #51575a, #3a4242, #272e2a, #181a14);
+}
